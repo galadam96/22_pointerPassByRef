@@ -1,0 +1,10 @@
+﻿  pointerPassByRef.c
+C:\Users\Asus\Desktop\C\19_pointerPassByRef\pointerPassByRef.c(51,9): warning C4477: 'printf' : format string '%#x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+C:\Users\Asus\Desktop\C\19_pointerPassByRef\pointerPassByRef.c(51,9): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'int *'
+C:\Users\Asus\Desktop\C\19_pointerPassByRef\pointerPassByRef.c(51,9): warning C4477: 'printf' : format string '%#x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'int *'
+C:\Users\Asus\Desktop\C\19_pointerPassByRef\pointerPassByRef.c(51,9): warning C4313: 'printf': '%x' in format string conflicts with argument 2 of type 'int *'
+C:\Users\Asus\Desktop\C\19_pointerPassByRef\pointerPassByRef.c(54,9): warning C4477: 'printf' : format string '%#x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+C:\Users\Asus\Desktop\C\19_pointerPassByRef\pointerPassByRef.c(54,9): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'int *'
+C:\Users\Asus\Desktop\C\19_pointerPassByRef\pointerPassByRef.c(54,9): warning C4477: 'printf' : format string '%#x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'int *'
+C:\Users\Asus\Desktop\C\19_pointerPassByRef\pointerPassByRef.c(54,9): warning C4313: 'printf': '%x' in format string conflicts with argument 2 of type 'int *'
+  19_pointerPassByRef.vcxproj -> C:\Users\Asus\Desktop\C\19_pointerPassByRef\x64\Debug\19_pointerPassByRef.exe
